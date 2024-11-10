@@ -14,6 +14,5 @@ Anzeige der aktuellen Spieler und Whitelist
 Voraussetzungen:
 
 python 3,
-
 java (für den minecraft server)
 
